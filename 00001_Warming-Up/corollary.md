@@ -10,6 +10,7 @@ program {
 ```
 
 Operationally:
+
 1. it drops one red stone
 1. then, it moves to the east
 1. then, it drops one black stone
@@ -27,6 +28,7 @@ program {
 ```
 
 Operationally:
+
 1. it moves to the east
 1. then, it drops one red stone
 1. then, it drops one black stone
