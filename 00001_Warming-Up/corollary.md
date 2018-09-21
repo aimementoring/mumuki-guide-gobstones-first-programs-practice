@@ -3,9 +3,9 @@ For example, look at the program you have just written:
 
 ```puppet
 program {
-  Poner(Rojo)
-  Mover(Este)
-  Poner(Negro)
+  Drop(Red)
+  Move(East)
+  Drop(Black)
 }
 ```
 
@@ -21,9 +21,9 @@ Now, look at this other program:
 
 ```puppet
 program {
-  Mover(Este)
-  Poner(Rojo)
-  Poner(Negro)
+  Move(East)
+  Drop(Red)
+  Drop(Black)
 }
 ```
 
