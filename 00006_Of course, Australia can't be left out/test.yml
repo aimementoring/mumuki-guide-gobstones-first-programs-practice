@@ -3,7 +3,7 @@ check_board_position: false
 examples:
  - initial_board: |
     GBB/1.0
-    size 6 3
+    size 4 2
     head 0 0
    final_board: |
     GBB/1.0
