@@ -1,0 +1,7 @@
+procedure Drop(color){
+  PutStone(color)
+}  
+
+procedure Grab(color){
+  RemoveStone(color)
+}  
