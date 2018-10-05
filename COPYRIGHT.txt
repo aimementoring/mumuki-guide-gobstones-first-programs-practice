@@ -2,4 +2,4 @@ Copyright Franco Bulgarelli and Federico Aloi. Translated by Tomás Sánchez. an
 
 This content consists of voluntary contributions made by many
 individuals. For exact contribution history, see its revision history
-available at https://github.com/mumukiproject/mumuki-guide-gobstones-first-programs-practice and the AUTHORS.txt file.
+available at https://github.com/aimementoring/mumuki-guide-gobstones-first-programs-practice and the AUTHORS.txt file.
